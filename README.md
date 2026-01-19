@@ -1,49 +1,51 @@
 # Hi, I'm Sahil Anish Palarpwar 👋
 
-Welcome to my GitHub! I'm a **Data Scientist** and **Software Developer** with a passion for leveraging data to solve complex problems and create impactful solutions. My expertise lies in building machine learning models, developing efficient data pipelines, and crafting software systems that scale.
+Welcome to my GitHub! I'm a Data Scientist with 4 years of experience across predictive modeling, data analytics, AI engineering, and production
+ML. Delivered measurable impact for Fortune 500 pharmaceutical and automotive clients through scalable pipelines,
+predictive modeling, and marketing analytics.
 
 ---
 
 ## 🔧 Technical Skills
 
-### Programming Languages:
-- **Python** | **C++** | **SQL** | **R**
-
-### Platforms & Tools:
-- Databricks | Microsoft Azure | Google Cloud Platform | Vertex AI | Docker | Visual Studio
-
-### Frameworks & Libraries:
-- TensorFlow | PyTorch | Scikit-learn | Keras | FastAPI | LangChain | NLTK | OpenCV | SQLAlchemy
-
-### Data & Visualization:
-- Pandas | Matplotlib | Seaborn | Apache Spark | Apache Airflow | Tableau
-
-### AI/ML Expertise:
-- Large Language Models (LLMs) | Embeddings | ML Training | Regression Analysis | Neural Networks
+### ML/Stats: XGBoost, LightGBM, Autoencoders, TensorFlow, PyTorch, Scikit-learn, Scipy
+### Languages: Python, SQL, R, C++
+### Cloud/Data: AWS (SageMaker, S3, Athena), Databricks, Oracle, CDP, Vertex AI
+### ML Eng: FastAPI, Docker, SQLAlchemy, ETL/ELT, Feature Engineering, PySpark, MLflow, Git, OAuth 2.0
+### Analytics: Power BI, Tableau, Adobe Analytics, A/B Testing
+### GenAI: LangChain, ChromaDB, RAG Pipelines, Pinecone, Ragas, DeepEval
 
 ---
 
 ## 💼 Professional Experience
 
-### Analyst, Data Science | **Targetbase, Inc.** (March 2024 - Present)
-- Enhanced **Direct-to-Consumer (DTC)** marketing efforts for a pharmaceutical client by integrating web and email engagement data, driving personalized strategies with regression models.
-- Transformed visualization pipelines from **Oracle SQL** to **Presto SQL**, reducing query time by 30% for automotive dashboards.
-- Provided data-driven customer experience insights using Adobe Analytics.
+### Data Scientist | **Targetbase, Inc.** (March 2024 - Present)
+• Designed and deployed a production-grade EV customer segmentation and classification pipeline on AWS
+SageMaker to enable automated, scalable targeting workflows.
+• Developed a RAG-based AI agent on internal campaign data (documents, flows, etc.) to generate concise
+analytics summaries, improving accuracy and insight extraction for teams.
+• Drove 12.2% lift in multi-channel ROI for a pharma client via A/B tests, uplift modelling, and targeting
+optimization.
+• Built predictive models (XGBoost, Logistic Regression), improving email open rate by 12.1%.
+• Led migration from SAS to Python and AWS, engineering reusable ETL pipelines that cut reporting latency by
+28.9%.
+• Created a centralized Python analytics library (boto3, awswrangler) boosting analytics productivity.
 
-### Software Engineer | **iRemedy Healthcare, Inc.** (September 2023 - January 2024)
-- Built scalable **Product Information Management (PIM)** features using FastAPI, improving system reliability.
-- Designed MySQL databases and **ETL pipelines**, optimizing backend processes.
-- Automated BigCommerce data integration with API automation.
+### Data Engineer | **iRemedy Healthcare, Inc.** (September 2023 - January 2024)
+• Built automated data pipelines & REST APIs using FastAPI and MySQL, eliminating manual entry 100.0% and
+improving data reliability.
+• Designed and implemented a multi-signal, content-based recommendation system experimenting with TF-IDF
+embeddings, cosine similarity, fuzzy string matching (RapidFuzz), and structured metadata features to generate
+medical-supply product recommendations.
 
 ### Data Scientist Intern | **Graftek Imaging, Inc.** (August 2022 - December 2022)
-- Achieved 93.2% accuracy in wood core image classification using **ML techniques**.
-- Designed an **ETL pipeline** for managing wood sample image data.
-- Contributed to AI-driven solutions for camera calibration.
+• Developed defect-detection and wood-core sample classifier models (KNN, Random Forest) with 93.2% accuracy.
 
-### Software Engineer Intern | **Micron Technology, Inc.** (May 2022 - August 2022)
-- Developed REST APIs with **FastAPI**, integrating real-time ML prediction models.
-- Deployed scalable solutions on **Google Cloud Platform** with Docker.
-- Enhanced silicon wafer detection through advanced edge detection techniques.
+### Data Scientist Intern | **Micron Technology, Inc.** (May 2022 - August 2022)
+• Designed and deployed a prediction API (FastAPI, Docker, GCP, Vertex AI) serving machine learning models for
+silicon wafer quality checks with 95.4% accuracy.
+• Conducted EDA, feature engineering, and performance analysis to optimize predictive accuracy and deliver
+actionable insights.
 
 ---
 
@@ -51,11 +53,9 @@ Welcome to my GitHub! I'm a **Data Scientist** and **Software Developer** with a
 
 ### **North Carolina State University**  
 M.S. in Electrical and Computer Engineering (GPA: 4.0)  
-August 2021 - May 2023
 
 ### **Pune Institute of Computer Technology**  
 B.E. in Electrical Engineering  
-July 2016 - May 2020
 
 ---
 
