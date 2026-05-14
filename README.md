@@ -1,4 +1,4 @@
-# Hi, I'm Sahil Anish Palarpwar 👋
+# Hi, I'm Sahil Palarpwar 👋
 
 Welcome to my GitHub! I'm a Data Scientist with 4 years of experience across predictive modeling, data analytics, AI engineering, and production
 ML. Delivered measurable impact for Fortune 500 pharmaceutical and automotive clients through scalable pipelines,
