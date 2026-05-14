@@ -19,40 +19,32 @@ predictive modeling, and marketing analytics.
 
 ## 💼 Professional Experience
 
-### Data Scientist | **Targetbase, Inc.** (March 2024 - Present)
-• Designed and deployed a production-grade EV customer segmentation and classification pipeline on AWS
-SageMaker to enable automated, scalable targeting workflows.
-• Developed a RAG-based AI agent on internal campaign data (documents, flows, etc.) to generate concise
-analytics summaries, improving accuracy and insight extraction for teams.
-• Drove 12.2% lift in multi-channel ROI for a pharma client via A/B tests, uplift modelling, and targeting
-optimization.
-• Built predictive models (XGBoost, Logistic Regression), improving email open rate by 12.1%.
-• Led migration from SAS to Python and AWS, engineering reusable ETL pipelines that cut reporting latency by
-28.9%.
-• Created a centralized Python analytics library (boto3, awswrangler) boosting analytics productivity.
+### Data Scientist | **Targetbase (Omnicom Precision Marketing)** (March 2024 - Present)
+• Designed and deployed an end-to-end batch ML pipeline on AWS SageMaker for EV customer segmentation, including data ingestion, feature engineering, model training, and scheduled batch inference, enabling automated large-scale customer targeting workflows across first- and third-party (Acxiom) datasets.
+• Developed a RAG-based assistant over internal campaign documents and workflows, implementing embedding-based retrieval and LLM summarization.
+• Drove 12.2% lift in multi-channel ROI for an automotive client via A/B tests and targeting optimization.
+• Led migration of legacy SAS-based workflows to a modular Python + AWS architecture, engineered reusable ETL and feature pipelines in Python (boto3, awswrangler) integrated with S3 and Athena, reducing data processing latency by 28.9% with downstream ML and Analytics inference pipelines.
+• Built and maintained a centralized Python analytics library to standardize data access, feature transformations, and model utilities, improving team productivity and consistency across ML workflows.• Lead analytics for multiple pharmaceutical vaccine brands, owning monthly and quarterly performance reporting and executive-ready KPI dashboards.
+• Serving as the primary analytics decisioning partner, delivering ad-hoc analyses to guide targeting, measurement, and campaign optimization.
 
 ### Data Engineer | **iRemedy Healthcare, Inc.** (September 2023 - January 2024)
-• Built automated data pipelines & REST APIs using FastAPI and MySQL, eliminating manual entry 100.0% and
-improving data reliability.
-• Designed and implemented a multi-signal, content-based recommendation system experimenting with TF-IDF
-embeddings, cosine similarity, fuzzy string matching (RapidFuzz), and structured metadata features to generate
-medical-supply product recommendations.
+• Built automated data pipelines & REST APIs using FastAPI and MySQL, eliminating manual entry 100% and improving data reliability.
+• Designed and implemented a multi-signal, content-based recommendation system combining TF-IDF embeddings, cosine similarity, fuzzy string matching (RapidFuzz), and structured metadata features to generate medical-supply product recommendations.
 
 ### Data Scientist Intern | **Graftek Imaging, Inc.** (August 2022 - December 2022)
 • Developed defect-detection and wood-core sample classifier models (KNN, Random Forest) with 93.2% accuracy.
+• Built ETL/preprocessing pipelines for RGB and sRGB image data.
 
 ### Data Scientist Intern | **Micron Technology, Inc.** (May 2022 - August 2022)
-• Designed and deployed a prediction API (FastAPI, Docker, GCP, Vertex AI) serving machine learning models for
-silicon wafer quality checks with 95.4% accuracy.
-• Conducted EDA, feature engineering, and performance analysis to optimize predictive accuracy and deliver
-actionable insights.
+• Designed and deployed a FastAPI-based prediction service (Docker, GCP Vertex AI) for silicon wafer quality classification, integrating EDA, feature engineering, and model optimization workflows to achieve 95.4% accuracy and enable production-grade inference for manufacturing quality checks.
+• Designed and implemented autofocus and canny edge detection for a Raspberry Pi-controlled camera system for automatic focus adjustments and silicon wafer detection.
 
 ---
 
 ## 🎓 Education
 
 ### **North Carolina State University**  
-M.S. in Electrical and Computer Engineering (GPA: 4.0)  
+M.S. in Electrical and Computer Engineering (Data Science) (GPA: 4.0)  
 
 ### **Pune Institute of Computer Technology**  
 B.E. in Electrical Engineering  
